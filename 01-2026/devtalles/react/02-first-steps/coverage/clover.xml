@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1768216124685" clover="3.2.0">
+  <project timestamp="1768216124685" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="11" coveredconditionals="9" methods="10" coveredmethods="10" elements="45" coveredelements="43" complexity="0" loc="24" ncloc="24" packages="3" files="5" classes="5"/>
+    <package name="src">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="FirstStepsApp.tsx" path="/home/miguel/workspace/2026/01-2026/devtalles/react/02-first-steps/src/FirstStepsApp.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="21" count="20" type="stmt"/>
+      </file>
+      <file name="MyAwesomeApp.tsx" path="/home/miguel/workspace/2026/01-2026/devtalles/react/02-first-steps/src/MyAwesomeApp.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.helpers">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="math.helper.ts" path="/home/miguel/workspace/2026/01-2026/devtalles/react/02-first-steps/src/helpers/math.helper.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shopping-cart">
+      <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
+      <file name="ItemCounter.module.css" path="/home/miguel/workspace/2026/01-2026/devtalles/react/02-first-steps/src/shopping-cart/ItemCounter.module.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="ItemCounter.tsx" path="/home/miguel/workspace/2026/01-2026/devtalles/react/02-first-steps/src/shopping-cart/ItemCounter.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="3" coveredmethods="3"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="9" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
